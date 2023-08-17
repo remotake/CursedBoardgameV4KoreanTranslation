@@ -41,8 +41,8 @@ var itemshopdata = {cellid:[], category: "ItemShop", imagebig:"shop1big.jpg", im
 //cell values range from 0 to max
 
 var configAttribDescs = [
-{attribname: "sex", descs: ["M","F"]},
-{attribname: "strength", descs: ["Your limbs are slender and delicate. You might need help lifting more than a few pounds.","","You're pretty strong physically, your body is fit and well-toned.","You feel incredibly strong. Your muscular form is chiseled and firm. You feel like you could lift hundreds of pounds effortlessly.","Your incredible physique holds superhuman strength. You could juggle cars if they didn't break in your hands"]},
+{attribname: "sex", descs: ["남","여"]},
+{attribname: "strength", descs: ["당신의 팔다리는 가늘고 연약합니다. 몇 킬로그램도 들기 힘들 것입니다.","","당신은 꽤 힘이 셉니다. 탄탄한 근육질의 몸을 가지고 있습니다.","당신은 아주 힘이 셉니다. 조각상 같은 근육을 가지고 있으며 수백 킬로그램을 가뿐히 들 수 있습니다.","당신은 초인적으로 힘이 셉니다. 자동차로 저글링을 할 수 있습니다."]},
 {attribname: "stamina", descs: ["You get easily tired from physical activity : you'll frequently need time to rest and catch your breath.","","Your stamina is higher than average : you could run a mile without breaking a sweat.","Your stamina is inexhaustible, you could easily keep going for days.","Your stamina is inexhaustible, and you only need to sleep for an hour a night"]},
 {attribname: "dexterity", descs: ["You're kinda clumsy at times, but in an adorable way.","","You're nimble and light on your feet, your movements are graceful and precise.","You're extremely dexterous and flexible. You move with unmatched grace and your reflexes are swift as lightning.","You move with superhuman precision, grace and balance. You could run up a collapsing bridge, and bullet time is reality for you."]},
 {attribname: "eyesight", descs: ["You're rather short sighted. You'll need to wear glasses.","","You have perfect vision, you'll be able to see objects clearly from miles away.","Your eyesight is incredible. You can almost see in the dark, and can detect lies better than any polygraph if you can see the speaker","Your inhumanly perfect eyesight can see in the dark, see beyond the visible spectrum, and even see truths hidden in human auras"]},
